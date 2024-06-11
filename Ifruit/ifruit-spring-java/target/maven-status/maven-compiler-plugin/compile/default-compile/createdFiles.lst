@@ -1,0 +1,16 @@
+com\ifruitcommerce\ifruit\resources\UserResource.class
+com\ifruitcommerce\ifruit\entities\OrderStatus.class
+com\ifruitcommerce\ifruit\entities\Payment.class
+com\ifruitcommerce\ifruit\repositories\OrderRepository.class
+com\ifruitcommerce\ifruit\entities\Product.class
+com\ifruitcommerce\ifruit\repositories\OrderItemRepository.class
+com\ifruitcommerce\ifruit\IfruitApplication.class
+com\ifruitcommerce\ifruit\entities\OrderItem.class
+com\ifruitcommerce\ifruit\repositories\CategoryRepository.class
+com\ifruitcommerce\ifruit\config\TestConfig.class
+com\ifruitcommerce\ifruit\entities\Category.class
+com\ifruitcommerce\ifruit\repositories\UserRepository.class
+com\ifruitcommerce\ifruit\repositories\ProductRepository.class
+com\ifruitcommerce\ifruit\entities\Order.class
+com\ifruitcommerce\ifruit\repositories\PaymentRepository.class
+com\ifruitcommerce\ifruit\entities\User.class
